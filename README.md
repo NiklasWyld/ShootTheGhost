@@ -5,5 +5,5 @@ In the game Shoot The Ghost, the object is to shoot the enemies that come down o
 Controls:
 
 Left - Left arrow key
-To the right - Right arrow key 
+Right - Right arrow key 
 Shoot - Upper arrow key
