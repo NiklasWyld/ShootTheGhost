@@ -20,7 +20,7 @@ public class Game {
         frame.add(gameover_panel);
         gameover_panel.setVisible(false);
 
-        frame.setTitle("Shot the Ghost");
+        frame.setTitle("Shoot the Ghost");
         frame.setSize(game_width, game_height);
         frame.setResizable(false);
         frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);

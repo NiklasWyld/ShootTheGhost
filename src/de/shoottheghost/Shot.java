@@ -3,6 +3,7 @@ package de.shoottheghost;
 import java.awt.*;
 import java.awt.geom.Ellipse2D;
 
+
 public class Shot {
     int x, y;
     int speed;

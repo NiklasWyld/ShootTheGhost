@@ -4,6 +4,8 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.geom.Area;
 import java.util.ArrayList;
+import de.shoottheghost.*;
+import de.shoottheghost.*;
 
 public class GamePanel extends JPanel implements Runnable {
     Thread thread;

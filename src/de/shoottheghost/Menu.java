@@ -17,7 +17,7 @@ public class Menu extends JPanel {
     }
 
     private void setupUI() {
-        JLabel title = new JLabel("Shot the Ghost");
+        JLabel title = new JLabel("Shoot the Ghost");
         title.setFont(new Font("Arial", Font.BOLD, 30));
         title.setBounds(300, 100, 300, 50);
 
